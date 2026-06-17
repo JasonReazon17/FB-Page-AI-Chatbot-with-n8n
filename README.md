@@ -1,0 +1,9 @@
+my-n8n-workflows/
+  /healthcare/
+    fb-page-ai-chatbot.json
+    appointment-booking.json
+  /finance/
+    bank-transaction-extractor.json
+  /content/
+    auto-video-posting.json
+  README.md
